@@ -1,3 +1,5 @@
+### Sweyz, débutant en développement JavaScript.
+
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <br>
 <p align="center">
